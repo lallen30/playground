@@ -1,5 +1,5 @@
 <?php
-include "includes/classes.php";
+include "includes/personclass.php";
 
 $bob = new Person;
 $bob->age = 5;
